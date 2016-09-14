@@ -1,0 +1,36 @@
+
+table,th,td,tr{
+	border:1px solid green;
+	/* border-collapse:collapse; */
+	padding:3px;
+}
+#table1{
+	margin-left: 400px;
+	margin-top:150px;
+	border-radius:8px;
+	background:#FFFFFF;
+}
+td,th{
+	padding:8px;
+	width:35px;
+	text-align:center;
+	
+}
+th{
+	background:#ADF2A4;
+}
+/* td{
+	background:#C0F7BB;
+} */
+.Index{
+	background:#90FE82;
+	
+}
+.ColsCol{
+	background:#E7FBE4;
+}
+
+/* 
+background:#C0F7BB;
+
+background:#E7FBE4; */
