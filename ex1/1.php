@@ -14,7 +14,7 @@ HINT3: http://api.jquery.com/on/
 try{
 	$link = @mysqli_connect('localhost','root','Sta19Hor','first');
 	if(!$link){
-		throw new Exception(' Cannot connect to DB' );
+		throw new Exception('I Cannot connect to DB' );
 	}
 	mysqli_select_db($link , "first"); // Use DB	
 	if(empty($_POST["name"])){

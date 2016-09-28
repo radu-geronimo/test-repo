@@ -21,7 +21,7 @@ $(document).ready(function(){
 				
 				if(response.success)
 				{
-					message.html("OK");
+					message.html("OKish");
 					message.css("color","green");
 					
 					
