@@ -1,3 +1,3 @@
 <?php
-echo 'git repo oooo';
+echo 'git repo ooo';
 ?>
