@@ -1,2 +1,2 @@
 # test-repo
-kuhk
+kuhk2
